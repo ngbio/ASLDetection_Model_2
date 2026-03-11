@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+.venv/
+.idea/
+__pycache__/
+
+data/
+*.rar
+
+*.h5
+*.keras
