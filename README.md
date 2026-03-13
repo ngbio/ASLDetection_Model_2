@@ -22,13 +22,13 @@ python train_model.py
 # Test
 python test.py
 
+```text
 ASLDataCollection/
-│
-├── dataCollection.py    # thu thập data
-├── requirements.txt     
-├── test.py              # test mô hình
-├── train_model.py       # huấn luyện mô hình
-├── README.md
+├── dataCollection.py   
+├── requirements.txt    
+├── test.py              
+├── train_model.py      
+├── README.md            
 └── Data/
     ├── Train/
     │   ├── A/
