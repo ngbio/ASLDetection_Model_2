@@ -24,11 +24,11 @@ python test.py
 
 ```text
 ASLDataCollection/
-├── dataCollection.py    # Thu thập dữ liệu
-├── requirements.txt     # Các thư viện cần thiết
-├── test.py              # Kiểm tra mô hình (Demo)
-├── train_model.py       # Huấn luyện mô hình
-├── README.md            # Tài liệu hướng dẫn
+├── dataCollection.py   
+├── requirements.txt    
+├── test.py              
+├── train_model.py      
+├── README.md            
 └── Data/
     ├── Train/
     │   ├── A/
